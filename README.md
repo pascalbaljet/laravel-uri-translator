@@ -17,7 +17,7 @@ Parameters will not be translated by this macro. That remains the responsibility
 
 ## ✅ Requirements
 
-- PHP >= 8.1
+- PHP >= 8.2
 - Laravel >= 10.0
 
 ## 📦 Install
